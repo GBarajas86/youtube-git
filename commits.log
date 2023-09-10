@@ -1,0 +1,119 @@
+commit fc113afcae2043cdeebb55e792722694503138a2
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 16:11:42 2023 -0600
+
+    agregando 2 parrafos
+
+commit e05ea7283848b0b20c71c35879fa18c2a47d0f53
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 14:35:19 2023 -0600
+
+    agregando fecha de inicio a las estaciones del año
+
+commit a0864e5ed98ce73f0f81574a8e4bb7704dfc96b4
+Merge: b478cd2 14a02b8
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 14:33:50 2023 -0600
+
+    resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit b478cd2a4bab3846e29042ffadd3c0f6edf92cd4
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 14:18:20 2023 -0600
+
+    agregando estaciones del año con fecha de inicio
+
+commit 14a02b823751fa96539e4f65205d4b6b05dcf4d4
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 14:18:20 2023 -0600
+
+    agregando estaciones del año
+
+commit a1e6b14fb65cccbb188e5fdb9f977d81b702307d
+Merge: 047fce0 0cd5c97
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 13:29:02 2023 -0600
+
+    resolviendo conflicto merge main/html
+
+commit 0cd5c97ae43e923ee132cc216db56a3145965a08
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 13:21:52 2023 -0600
+
+    agregando index.js al index.html
+
+commit 047fce00d27c55b35fdca1e1fe221456ec48350b
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Fri Sep 8 13:19:11 2023 -0600
+
+    agregando style.css
+
+commit 3ae5dab543d16d18a1faf9023fb4aa4d6d81b011
+Merge: 3073ae3 354d515
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Thu Sep 7 00:15:14 2023 -0600
+
+    Merge branch 'js'
+
+commit 354d51584cd6d1ec04cf9aae6143e00b00b07594
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Thu Sep 7 00:08:43 2023 -0600
+
+    creando index.js
+
+commit 3073ae3bf6037d516b2f1e3c073fe2a8a18216e0
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Thu Sep 7 00:03:12 2023 -0600
+
+    creando css
+
+commit a525f33cb81e6210fae728d50ef7d3c0d15d693c
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Wed Sep 6 23:56:28 2023 -0600
+
+    creando index.html
+
+commit 08843bf93e7c77dd62b8b534d41408dff3440831
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 18:35:21 2023 -0600
+
+    ignorando archivos .exe
+
+commit f4e1481af69b535de83f7663b5a78c0f5275476f
+Merge: e813f18 0770a20
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 18:12:27 2023 -0600
+
+    Merge branch 'main' of https://github.com/GBarajas86/youtube-git
+
+commit e813f180aacc9d4f53e8dd6dea85b986cd42d5c0
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 18:08:50 2023 -0600
+
+    agregando punto al readme
+
+commit 0770a20a75abca129560d7fe9f62c9c9c4b3cb56
+Author: Gualberto Barajas <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 17:52:01 2023 -0600
+
+    Create LICENSE
+    
+    creando licencia del repositorio
+
+commit 6121b36cfe41f6f779909d90f34a2627889be30c
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 17:44:26 2023 -0600
+
+    agregando contenido al readme
+
+commit 7571dbece08d74e2be2f7b6186f3eb7aa7de7525
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 17:31:09 2023 -0600
+
+    Agregando contenido principal al README
+
+commit f1f836de3a1b215de0fe8bc5c3a5f4e44695e086
+Author: GBarajas86 <58350056+GBarajas86@users.noreply.github.com>
+Date:   Tue Sep 5 17:28:00 2023 -0600
+
+    primer commit 😁
